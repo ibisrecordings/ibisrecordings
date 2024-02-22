@@ -1,3 +1,3 @@
 ### Hello!
 
-[] Create a proper README.md
+- [ ] Create a proper README.md
